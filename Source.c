@@ -5,7 +5,7 @@ int main() {
 	int arr1[100];
 	int arr2[100];
 	int choice = 0;
-	int el, k, l;
+	int k, l;
 
 	
 	printf("Enter 10 elements of the first set:\n");
